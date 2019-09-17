@@ -1,8 +1,9 @@
 import React from 'react';
 import { View } from 'react-native';
+import { Container } from './style';
 
 const Main = () => {
-  return <View />;
+  return <Container />;
 };
 
 Main.navigationOptions = {
