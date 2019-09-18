@@ -4,6 +4,13 @@
 
 ## Exemplo das telas
 
+#### Tela inicial:
+
+![tela incial](https://user-images.githubusercontent.com/25302676/65178939-3856aa80-da30-11e9-8b19-0c3779e64378.png)
+
+
+#### Perfil do usuário com seus projetos favoritados:
+![projetos favoritados](https://user-images.githubusercontent.com/25302676/65178978-499fb700-da30-11e9-9bbf-9ca22936cda9.png)
 
 
 ## Configurações de ambiente
@@ -51,6 +58,4 @@ react-native run-android
 
 ```
 react-native run-ios
-```
-
 ```
